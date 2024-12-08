@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.e8ff208f.js",
+    "main.js": "/static/js/main.cf784924.js",
     "static/js/453.5a536778.chunk.js": "/static/js/453.5a536778.chunk.js",
     "static/media/project-thumbnail-exoplanets.png": "/static/media/project-thumbnail-exoplanets.338025868ccc9d8d5cf8.png",
     "static/media/project-thumbnail-dontstarvemods.png": "/static/media/project-thumbnail-dontstarvemods.4c9734541e7963de759a.png",
@@ -12,11 +12,11 @@
     "static/media/project-thumbnail-imageranker.png": "/static/media/project-thumbnail-imageranker.0fc2f0bae801f1ad0f03.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.e8ff208f.js.map": "/static/js/main.e8ff208f.js.map",
+    "main.cf784924.js.map": "/static/js/main.cf784924.js.map",
     "453.5a536778.chunk.js.map": "/static/js/453.5a536778.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e8ff208f.js"
+    "static/js/main.cf784924.js"
   ]
 }
